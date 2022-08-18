@@ -15,7 +15,11 @@
 ![15](https://user-images.githubusercontent.com/111442374/185382801-45e5cf5d-7ed0-4fcf-9744-c8b35bab9446.jpg)
 ![16](https://user-images.githubusercontent.com/111442374/185382807-7b3af5b2-c7f0-4069-8202-5f0ea37bf46e.jpg)
 
-####Micro C code for this Assignment
+
+
+
+### **Micro C code for this Assignment**
+
 
 // PIC16F877A Configuration Bit Settings
 
